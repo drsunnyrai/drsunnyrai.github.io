@@ -9,7 +9,7 @@ Dr. Sunny Rai is an Assistant Professor in the Department of Computer Science an
 
 Her area of interest includes Natural Language Processing, Computational Social Science and Machine Learning techniques. Her research has been published in top journals and conferences (ACM Computing Surveys, The Computer Journal, Meta4NLP(NAACL-HLT), IC2S2, IJCRS). She has acted as reviewer for journals such as Neurocomputing (Elsevier), IEEE Access, Computer Applications for Engineering Education (Wiley), and top conferences such as AACL and EMNLP 2021. 
 
-
+* CV available at  <a href="{{ site.baseurl }}/_pages/cv/" target="_blank" > Link</a>
 # Contact
  École Centrale School of Engineering Sciences,  
  Mahindra University, Hyderabad.  
