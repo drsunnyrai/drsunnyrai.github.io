@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-22T00:56:50+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sunny Rai</title><subtitle>Educator|Researcher- NLP, Social Computing, Metaphors</subtitle><author><name>Sunny Rai</name></author></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-01-02T17:37:15+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sunny Rai</title><subtitle>Educator|Researcher- NLP, Social Computing, Metaphors</subtitle><author><name>Sunny Rai</name></author><entry><title type="html">covid19 is monster &amp;amp; vaccine is ram-baan!</title><link href="http://localhost:4000/covidMetaphor/" rel="alternate" type="text/html" title="covid19 is monster &amp;amp; vaccine is ram-baan!" /><published>2022-01-02T00:00:00+05:30</published><updated>2022-01-02T00:00:00+05:30</updated><id>http://localhost:4000/covidMetaphor</id><content type="html" xml:base="http://localhost:4000/covidMetaphor/">&lt;!--&lt;img src=&quot;/images/daliTime.jpg&quot;  alt=&quot;Credit: Salvador Dalí: The Persistence of Memory&quot;  style=&quot;width:50%&quot;&gt;
+Credit: Salvador Dalí: The Persistence of Memory --&gt;
+
+&lt;p&gt;Metaphors are conceptual constructs designed by our mind to establish an analogy between two apparently unrelated domains. 
+&lt;!--Surrealism genre poineered by Salvador Dali, also paints the unexpected juxtaposition of concepts --&gt;  Lakoff and Johnson in their book ‘Metaphors we live by’ defined metaphors as a tool that enables people to use what they know about their direct physical and social experiences to understand more abstract things like work, time, mental activity and feelings.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/images/covidMetaphorBlog/butterflyDream.png&quot; alt=&quot;dream&quot; style=&quot;width:85%&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Consider the above mapping where the elusive notion of DREAMS is mapped to a more widely observed entity BUTTERFLIES to express meanings such as &lt;em&gt;vibrant&lt;/em&gt; and &lt;em&gt;colorful&lt;/em&gt; in a conversation.&lt;/p&gt;
+
+&lt;p&gt;Metaphorical constructs are often seen in our daily discussions, political speeches, and poetry, for the clarity they bring in.  These constructs are not mere embellishment to accentuate one’s writing but a reflection of one’s inner feelings and often, used to convey a selective perspective to audience. Look at these political phrases such as &lt;em&gt;khooni panja&lt;/em&gt; for congress’s election symbol, &lt;em&gt;maut ka suadagar&lt;/em&gt;, &lt;em&gt;Upadravi Gotra&lt;/em&gt; and many more crafted carefully to deliver the target message amongst masses.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/covidMetaphorBlog/news.png&quot; alt=&quot;news&quot; style=&quot;width:85%&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;metaphors-of-covid-19&quot;&gt;Metaphors of COVID-19&lt;/h2&gt;
+
+&lt;p&gt;When COVID-19 striked India, metaphors comparing COVID-19 virus to &lt;em&gt;enemy&lt;/em&gt;, &lt;em&gt;monster&lt;/em&gt; and even &lt;em&gt;devil&lt;/em&gt; were widely used. Pandemic was equated to &lt;em&gt;war&lt;/em&gt;, &lt;em&gt;tsunami&lt;/em&gt;, &lt;em&gt;race&lt;/em&gt; etc. The aim was to attract people’s attention, convey the urgency of the situation and infuse a feeling of togetherness.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;   &lt;img src=&quot;/images/covidMetaphorBlog/war.png&quot; alt=&quot;war&quot; style=&quot;width:85%&quot; /&gt; &lt;/p&gt;
+
+&lt;p&gt;Below are few metaphorical tweets on COVID-19:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;A storm is coming. Brace yourselves. Impact on Indian economy will be severe&lt;/em&gt;. #coronavirusindia. - COVID-19 is STORM&lt;/li&gt;
+  &lt;li&gt;“&lt;em&gt;Janata Curfew on 22nd March 2020 AND ”Ghantanad will help Indians to fight against the corona virus. It will help to kill the devil&lt;/em&gt;”- COVID-19 is MONSTER&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Got vaccinated today with first dose of indigenously developed. #Covaxin Thank you all the scientists who worked hard to invent the vaccine. Together India will defeat  COVID-19&lt;/em&gt;.’’ - COVID-19 is WAR&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;However, the discussion quickly took an unexpected turn where these mapping actually started creating a rift amongst different sections of society. Metaphors borrowed from the domain DARKNESS, DISASTER, and STIGMA led to pessimistic perception with a nagging sense of helplessness and isolation.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/images/covidMetaphorBlog/negativeMetaphor.png&quot; alt=&quot;negative&quot; style=&quot;width:75%&quot; /&gt; &lt;/p&gt;
+
+&lt;h2 id=&quot;evolving-perception-towards--covid-19&quot;&gt;Evolving Perception towards  COVID-19&lt;/h2&gt;
+
+&lt;p&gt;To analyse how the metaphors evolved during the different phases of the pandemic, we used diachronic word embeddings.  These embeddings essentialy track the semantic shifts in the meaning of a concept based on the given training data. We modeled the shift in the evolving perception using metaphorical tweets from the following  time durations:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;lockdown i.e.   Mar’20  to  Jun’20&lt;/li&gt;
+  &lt;li&gt;post lockdown i.e.  July’20 to Oct’20 and,&lt;/li&gt;
+  &lt;li&gt;second wave i.e.  Mar’21 to Jun’21.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;lockdown-phase&quot;&gt;Lockdown Phase&lt;/h3&gt;
+
+&lt;p&gt;Below is the first plot illustrating the neighbourhood of &lt;em&gt;covid&lt;/em&gt; during the lockdown. The representations are learned using word2vec skipgram model by training on metaphorical tweets posted during the lockdown phase. The words closer to &lt;em&gt;covid&lt;/em&gt; indicates high relatedness with covid-19.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/covidMetaphorBlog/UpdatedLockdown.png&quot; alt=&quot;lockdown&quot; style=&quot;width:90%&quot; /&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Here, the closest words are &lt;em&gt;fight, battle, deadly, break, war, protect, threat, deadly, dangerous&lt;/em&gt; . COVID-19 is conceptualized as WAR, MONSTER, and even as an OBSTACLE/GAME (&lt;em&gt;challenge, overcome, strike, tackle&lt;/em&gt;).  India had only few reported cases of COVID-19 in the lockdown phase. Nevertheless, the metaphors are grim and fear inducing. The fear of unknown and the lack of confidence on Indian healthcare might be the reason behind these overly gloomy tweets.&lt;/p&gt;
+
+&lt;h3 id=&quot;post-lockdown-phase&quot;&gt;Post-Lockdown Phase&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/covidMetaphorBlog/UpdatedPostLockdown.png&quot; alt=&quot;post lockdown&quot; style=&quot;width:90%&quot; /&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;Post-Lockdown is the phase where India faced the first wave of COVID-19. COVID-19 is discussed using concepts such as &lt;em&gt;race, win, fight, combat, tackle&lt;/em&gt;. Moreover, even WAR metaphors are used in more authoritative fashion indicating the transition in the meaning of WAR metaphors while discussing COVID-19. Metaphors such as &lt;em&gt;duty, strategy, push, tackle, brave, fighter, crusader&lt;/em&gt; convey a sense of control. These metaphors indeed indicate a more confident and controlled reaction to the pandemic.&lt;/p&gt;
+
+&lt;h3 id=&quot;second-wave&quot;&gt;Second Wave&lt;/h3&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/covidMetaphorBlog/UpdatedSecondWave.png&quot; alt=&quot;second wave&quot; style=&quot;width:90%&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Highest volume of metaphors were posted in the Second Wave phase. More negative metaphors such as &lt;em&gt;battle, deadly, crisis, suffer, defeat, dangerous&lt;/em&gt; came closer to covid compared with the previous two phases. Increased occurrence of DISASTER/DARKNESS metaphors such as &lt;em&gt;grim, catastrophe, devastating, disaster, panic, nightmare, gloom, danger, tsunami&lt;/em&gt; etc is also observed. We also note metaphors such as &lt;em&gt;breach, blame, rage, pressure&lt;/em&gt;  from GAME domain indicating the shift in meaning of GAME metaphors. There is a clear difference in the underlying emotional tone of metaphors when compared with the first wave phase. The first wave definitely saw a controlled strategy with manageable COVID-19 cases whereas the second wave  witnessed more suffering, panic and lack of control which is also evident from the metaphors.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;!--&lt;p align=&quot;center&quot;&gt; &lt;img src=&quot;/images/covidMetaphorBlog/conclude.png&quot; alt=&quot;conclude&quot; style=&quot;width:35%&quot; class=&quot;center&quot;&gt; &lt;/p&gt; --&gt;
+
+&lt;p&gt;Metaphors serve as the mirror of one’s psyche and are helpful in understanding the pulse of a society. Our experiment revealed that source domains such as WAR, MONSTER, PRISON, LESSON/TEACHER, SUCCESS/ CHALLENGE imparted a more positive influence in the Covid-19 discourse on twitter. This reaction of people is in contrast to prior work who state that the use of WAR and related metaphors paints a more negative picture about the pandemic. Looking through example tweets from these domains in an Indian context, we see that the presence of such metaphors excites a feel of encouragement on Twitter wherein Indians feel it as a duty to fight and defend their country from COVID-19.&lt;/p&gt;
+
+&lt;h2 id=&quot;reference&quot;&gt;Reference&lt;/h2&gt;
+&lt;p&gt;Khaliq, A M., Joseph, R. &amp;amp; Rai, S. (2021) &lt;strong&gt;#covid is war and #vaccine is weapon? COVID-19 metaphors in India&lt;/strong&gt;. In the 18th Proceedings of International Conference on Natural Language Processing (ICON), NLPAI&lt;/p&gt;
+
+&lt;p&gt;Credits:
+Shutterstock&lt;/p&gt;</content><author><name>Sunny Rai</name></author><summary type="html"></summary></entry></feed>

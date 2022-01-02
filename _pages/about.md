@@ -3,15 +3,12 @@ layout: page
 permalink: "/about/"
 ---
 
-<img src="/images/profileSmall.png" alt="Sunny_Rai" style="width: 20%"> 
-I am an Assistant Professor in the Department of Computer Science and Engineering at Mahindra École Centrale School of Engineering Sciences, Hyderabad. Previously, I was a Teaching cum Research Scholar at Netaji Subhas Institute of Technology, Delhi. I received my Ph.D. in Computer Engineering from Faculty of Technology, University of Delhi, India.
+<img src="/images/profilePic.png" alt="Sunny_Rai" style="width: 20%"> 
 
+Dr. Sunny Rai is an Assistant Professor in the Department of Computer Science and Engineering at Mahindra École Centrale School of Engineering Sciences, Hyderabad. Previously, she was a Teaching cum Research Scholar at Netaji Subhas Institute of Technology, Delhi. She received her Ph.D. in Computer Engineering from Faculty of Technology, University of Delhi, India. She is a member of IEEE,  Association for Computing Machinery (ACM) and Association of Computational Linguistics (ACL)
 
-# Research Projects
-* Computational Social Science - humans during pandemic, social norms
-* Creative Speech/Text Processing - humour, metaphor, sarcasm.
-* Socially Appropriate Behaviour - Hate Speech, bias, free speech, and ethics 
-* Emojis
+Her area of interest includes Natural Language Processing, Computational Social Science and Machine Learning techniques. Her research has been published in top journals and conferences (ACM Computing Surveys, The Computer Journal, Meta4NLP(NAACL-HLT), IC2S2, IJCRS). She has acted as reviewer for journals such as Neurocomputing (Elsevier), IEEE Access, Computer Applications for Engineering Education (Wiley), and top conferences such as AACL and EMNLP 2021. 
+
 
 # Contact
  École Centrale School of Engineering Sciences,  

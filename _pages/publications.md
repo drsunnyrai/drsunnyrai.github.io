@@ -4,6 +4,8 @@ layout: page
 permalink: "/publications/"
 ---
 
+Khaliq, A M., Joseph, R. & Rai, S. (2021). **#covid is war and #vaccine is weapon? COVID-19 metaphors in India** . In the 18th Proceedings of International Conference on Natural Language Processing (ICON), NLPAI.  <a href="http://icon2021.nits.ac.in/accepted_papers.html" target="_blank">Link</a> 
+
 Rai, S., & Chakraverty, S. (2020). **A Survey on Computational Metaphor Processing**. ACM Computing Surveys (CSUR), 53(2), 1-37. <a href="https://doi.org/10.1145/3373265" target="_blank">Link</a>
 
 Gollapudi, U. M., Perla, M., Hitesh, S., Kumaran, R., Rai, S., & Das, A. **Understanding User Vulnerability Towards Radicalization On Twitter**. In 5th International Conference on Computational Social Science IC2S2, July 17-20, 2019, University of Amsterdam, The Netherlands. 
