@@ -1,5 +1,5 @@
 ---
-title: covid19 is monster & vaccine is ram-baan!
+title: "covid19 is devil & vaccine is a shield?: \nMetaphors of COVID-19"
 layout: post
 ---
 
