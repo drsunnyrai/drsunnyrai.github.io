@@ -3,15 +3,10 @@ title: "covid19 is devil & vaccine is a shield?: \nMetaphors of COVID-19"
 layout: post
 ---
 
-<!--<img src="/images/daliTime.jpg"  alt="Credit: Salvador Dalí: The Persistence of Memory"  style="width:50%">
-Credit: Salvador Dalí: The Persistence of Memory -->
-
-
-Metaphors are conceptual constructs designed by our mind to establish an analogy between two apparently unrelated domains. 
-<!--Surrealism genre poineered by Salvador Dali, also paints the unexpected juxtaposition of concepts -->  Lakoff and Johnson in their book 'Metaphors we live by' defined metaphors as a tool that enables people to use what they know about their direct physical and social experiences to understand more abstract things like work, time, mental activity and feelings. 
-
-
+Metaphors are conceptual constructs designed by our mind to establish an analogy between two apparently unrelated domains.  Lakoff and Johnson in their book 'Metaphors we live by' defined metaphors as a tool that enables people to use what they know about their direct physical and social experiences to understand more abstract things like work, time, mental activity and feelings. 
  <p align="center"> <img src="/images/covidMetaphorBlog/butterflyDream.png" alt="dream" style="width:85%"> </p>
+
+<!--more-->
 
 Consider the above mapping where the elusive notion of DREAMS is mapped to a more widely observed entity BUTTERFLIES to express meanings such as *vibrant* and *colorful* in a conversation.
 
