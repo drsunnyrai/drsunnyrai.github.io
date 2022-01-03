@@ -1,5 +1,5 @@
 ---
-title: "covid19 is devil & vaccine is a shield?: \nMetaphors of COVID-19"
+title: "Covid is war & Vaccine is weapon ! <br> \n<i>Metaphors of COVID-19</I>"
 layout: post
 ---
 
