@@ -80,7 +80,6 @@ Metaphors serve as the mirror of one's psyche and are helpful in understanding t
 
 
 ## Reference
-Khaliq, A M., Joseph, R. & Rai, S. (2021) **#covid is war and #vaccine is weapon? COVID-19 metaphors in India**. In the 18th Proceedings of International Conference on Natural Language Processing (ICON), NLPAI
+Khaliq, A M., Joseph, R. & Rai, S. (2021) **#covid is war and #vaccine is weapon? COVID-19 metaphors in India**. In the 18th Proceedings of International Conference on Natural Language Processing (ICON), NLPAI. Available at <a href="https://www.researchgate.net/publication/357535084_covid_is_war_and_vaccine_is_weapon_COVID-19_metaphors_in_India" target="_blank">Link</a> 
 
-Credits:
-Shutterstock
+Image  credits: Shutterstock
