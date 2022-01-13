@@ -48,7 +48,7 @@ disqus:
 
 # Your website URL (e.g. http://sr007.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: http://sr007.github.io
+url: "https://raisunny.com"
 # enforce_ssl: https://www.amitmerchant.com/reverie
 
 # If you're hosting your site at a Project repository on GitHub pages
@@ -99,4 +99,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
 

@@ -283,6 +283,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-admin
+  jekyll-sitemap
   webrick (~> 1.7)
 
 BUNDLED WITH
