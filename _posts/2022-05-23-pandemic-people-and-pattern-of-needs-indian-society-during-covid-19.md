@@ -4,13 +4,11 @@ title: 'Pandemic, People and Pattern of needs: <br> Indian Society during COVID-
 layout: post
 ---
 
-How great it would be if welfare organizations could know the human needs well in advance! 
+How great it would be if welfare organizations could know the human needs well in advance! Since COVID-19 was declared a pandemic, the world witnessed a variety of control measures which in turn led to the widespread feeling of unfulfillment either due to lack of daily necessities or dwindling opportunities to accomplish one's goals. Early detection of human needs can enable public agencies and independent organizations to provide prompt support including food supplies, medical care and timely awareness about the crisis amongst masses. Unmet needs scoping can help in designing public policies to cater to evolving needs of a society. In this blog,  we discuss an approach to detect unmet needs posted on Twitter.  Our approach comprises three key modules namely (a) Collecting Tweets, (b) Mapping Tweets with Needs and (c) Detecting Unmet needs, as shown below.
 
 <figure>
   <img src="/images/pandemicNeeds/PandemicNeedsBlog.png" alt="news" style="width:100%">
 </figure>
-
-Since COVID-19 was declared a pandemic, the world witnessed a variety of control measures which in turn led to the widespread feeling of unfulfillment either due to lack of daily necessities or dwindling opportunities to accomplish one's goals. Early detection of human needs can enable public agencies and independent organizations to provide prompt support including food supplies, medical care and timely awareness about the crisis amongst masses. Unmet needs scoping can help in designing public policies to cater to evolving needs of a society. In this blog,  we discuss an approach to detect unmet needs posted on Twitter.  Our approach comprises three key modules namely (a) Collecting Tweets, (b) Mapping Tweets with Needs and (c) Detecting Unmet needs, as shown above.
 ## Tweet Collection
 Indian tweets posted between Dec’19 to Jul’21, spanning a period of 19 months were collected using snscrape. The motive behind it was to understand how the pattern of needs has evolved from pre-COVID-19 phase to different stages of COVID-19 namely *lockdown*, the *first wave* and the *second wave.* After preprocessing, a total of 1.4M tweets were considered for further study.
 
