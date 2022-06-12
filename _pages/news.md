@@ -3,6 +3,7 @@ layout: page
 permalink: "/news/"
 ---
 
+* Awarded <a href="https://ghc.anitab.org/" target="_blank">Grace Hopper Celebration'22 </a> Faculty Scholarship. 
 * Long Research Paper entitled "<font 
           color="blue">
             Identifying Human Needs through Social Media: A study on Indian cities during COVID-19

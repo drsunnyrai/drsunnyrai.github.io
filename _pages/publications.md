@@ -6,7 +6,7 @@ permalink: "/publications/"
 
 Rai, S., Joseph R., Thakur P.S. & Khaliq A.M. (2022). **Identifying Human Needs through Social Media: A study on Indian cities during COVID-19**. <a href="https://sites.google.com/view/socialnlp2022/" target="_blank">Social NLP,  NAACL 2022</a> . Available at <a href="https://www.researchgate.net/publication/360726343_Identifying_Human_Needs_through_Social_Media_A_study_on_Indian_cities_during_COVID-19" target="_blank">Link</a> 
 
- Rai, S., Joseph R., Thakur P.S. & Khaliq A.M. (2022). **Pandemic, People and Pattern of Needs: Emerging Trends in Indian Society during COVID-19**.  <a href="https://boothuchicagocaai.wixsite.com/website-2" target="_blank">IC2S2 2022</a> . Abstract available at <a href="https://www.researchgate.net/publication/360726177_Pandemic_People_and_Pattern_of_Needs_Emerging_Trends_in_Indian_Society_during_COVID-19" target="_blank">Link</a> 
+ Joseph R., Rai, S.,  Thakur P.S. & Khaliq A.M. (2022). **Pandemic, People and Pattern of Needs: Emerging Trends in Indian Society during COVID-19**.  <a href="https://boothuchicagocaai.wixsite.com/website-2" target="_blank">IC2S2 2022</a> . Abstract available at <a href="https://www.researchgate.net/publication/360726177_Pandemic_People_and_Pattern_of_Needs_Emerging_Trends_in_Indian_Society_during_COVID-19" target="_blank">Link</a> 
  
 Khaliq, A M., Joseph, R. & Rai, S. (2021). **#covid is war and #vaccine is weapon? COVID-19 metaphors in India** . In the 18th Proceedings of International Conference on Natural Language Processing (ICON), NLPAI.  <a href="https://www.researchgate.net/publication/357535084_covid_is_war_and_vaccine_is_weapon_COVID-19_metaphors_in_India" target="_blank">Link</a> 
 
